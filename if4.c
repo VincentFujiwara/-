@@ -27,8 +27,7 @@ int main (){
 	kolvo++;
 	}
 
-
-
+	printf ("%d",kolvo);
 
 	return 0;
 }
