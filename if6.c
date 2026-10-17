@@ -14,7 +14,5 @@ int main (){
 	else {
 		printf ("%d",b);
 	}
-	
-	
-	
+	return 0;
 }
